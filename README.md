@@ -1,2 +1,3 @@
-[Demo](https://raw.githubusercontent.com/zakfarrow/odin-hand-of-cards/main/demo/card-draw.mp4)
+#### Demo
+![](https://raw.githubusercontent.com/zakfarrow/odin-hand-of-cards/main/demo/card-draw.gif)
 
