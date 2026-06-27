@@ -2,8 +2,8 @@ package main
 
 import rl "vendor:raylib"
 
-WINDOW_WIDTH :: 2000
-WINDOW_HEIGHT :: 600
+WINDOW_WIDTH :: 1000
+WINDOW_HEIGHT :: 800
 CARD_WIDTH :: 120.0
 CARD_HEIGHT :: 180.0
 CARD_ANGLE_MAG :: 10.0
